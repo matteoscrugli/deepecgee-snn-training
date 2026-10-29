@@ -9,6 +9,7 @@ This project involves the analysis and visualization of ECG (Electrocardiogram) 
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
+- [Ownership and authors](#ownership-and-authors)
 - [License](#license)
 
 ## Installation
@@ -70,6 +71,14 @@ The code is structured as follows:
 5. **Accuracy Computation**: After training, the code infers the labels for the test, validation, and training sets and computes the accuracy for each set. This gives a measure of the model's performance.
 
 6. **Detailed Signal Plotting**: This section plots detailed signal patterns for a specific label, aiding in debugging and model evaluation. It visualizes how the model responds to a specific type of ECG signal.
+
+## Ownership and authors
+
+This software was developed at the Department of Electrical and Electronic
+Engineering (DIEE), University of Cagliari, Italy. All economic rights belong
+to the University of Cagliari. It is released under the MIT license; the
+licence is non-exclusive and does not transfer ownership.
+Authors: Matteo Scrugli.
 
 ## License
 
